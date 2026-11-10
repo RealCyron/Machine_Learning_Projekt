@@ -139,3 +139,5 @@ dmypy.json
 # nbdime Stuff
 .gitattributes
 
+
+.csv
