@@ -8,3 +8,5 @@ Columns to drop:
 Imputation
 
 - Nach Ort mit Median oder alternativ interpolation zwischen Zeitpunkten für einen fixen Ort
+- für manche Messtationen fehlen ganze Tage. Also die ganze Zeile. Dies fällt bei einem üblichen Imputieren nicht auf, weil hier nur fehlende Werte in den Tagen ersetzt werden. 
+
