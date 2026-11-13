@@ -1,0 +1,22 @@
+[
+  "L3_HCHO_tropospheric_HCHO_column_number_density__ort_mean",
+  "L3_CO_CO_column_number_density__ort_mean",
+  "wind_speed__ort_mean",
+  "wind_speed",
+  "dayofyear",
+  "L3_CO_CO_column_number_density__roll7",
+  "precipitable_water_entire_atmosphere__ort_std",
+  "L3_HCHO_tropospheric_HCHO_column_number_density__ort_std",
+  "L3_CH4_CH4_column_volume_mixing_ratio_dry_air__ort_mean",
+  "L3_O3_O3_column_number_density__ort_std",
+  "L3_O3_O3_column_number_density__ort_mean",
+  "L3_CLOUD_cloud_fraction__ort_std",
+  "relative_humidity_2m_above_ground__ort_std",
+  "L3_CO_CO_column_number_density__roll3",
+  "temperature_2m_above_ground__ort_std",
+  "temp_x_humidity",
+  "L3_CO_CO_column_number_density__ort_dev",
+  "L3_NO2_NO2_slant_column_number_density",
+  "L3_HCHO_tropospheric_HCHO_column_number_density__roll7",
+  "L3_NO2_NO2_column_number_density__ort_mean"
+]
